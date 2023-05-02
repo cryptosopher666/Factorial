@@ -2,7 +2,7 @@
 #include<conio.h>
 using namespace std;
 main(){
-	int a,b=1;
+	double a,b=1;
 	cout<<"Enter number: ";
 	cin>>a;
 	for(int i=a;i>=1;i--){
